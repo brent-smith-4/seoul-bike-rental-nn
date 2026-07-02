@@ -1,0 +1,1 @@
+Neural network regression models (Keras/TensorFlow) predicting hourly bike rental demand from Seoul bike-share data — includes EDA, outlier handling, feature selection, and comparison of 2/3/4-layer architectures by R² and RMSE.
